@@ -1,0 +1,21 @@
+{
+  "name": "hackthevividonedarkpro",
+  "displayName": "HackTheVividOneDarkPro",
+  "description": "A Hackily Vivid One Dark Pro Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "HTVODP",
+        "uiTheme": "vs-dark",
+        "path": "./themes/HTVODP-color-theme.json"
+      }
+    ]
+  }
+}
